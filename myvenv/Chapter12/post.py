@@ -4,7 +4,7 @@ class Post:
         param id: 글번호
         param title: 글제목
         param content: 글내용
-        param view_count: 조회수
+        param view_count: 조회수 ..
     """
     def __init__(self, id, title, content, view_count):
         self.id = id
